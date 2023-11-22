@@ -1,16 +1,10 @@
 # Hey there! 👋 I'm a Full Stack Developer
 
-<div align="center">
-  <!-- Replace this image with your desired GIF -->
-  <img src="https://media.giphy.com/media/your-desired-gif-url.gif" width="200">
-</div>
+![Your GIF](https://media.giphy.com/media/your-gif-url.gif)
 
 ---
 
-<div align="center">
-  <!-- Replace this image with another desired GIF -->
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/your-another-gif-url.svg" alt="snake" />
-</div>
+![Another GIF](https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/your-another-gif-url.svg)
 
 <br/>
 <br/>
@@ -32,7 +26,7 @@ I'm eager to continue developing my skills as a junior-level .NET developer and 
 
 <div align="center">
   <!-- Replace this image with your desired GIF -->
-  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/your-gif-url.gif" width="50%">
+  ![Your GIF](https://github.com/Govindv7555/Govindv7555/blob/main/your-gif-url.gif)
 </div>
 
 ### Backend Technologies
@@ -73,5 +67,5 @@ I'm eager to continue developing my skills as a junior-level .NET developer and 
 
 <div align="center">
   <!-- Replace this image with your desired GIF -->
-  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/your-gif-url.gif" width="100%">
+  ![Your GIF](https://github.com/Govindv7555/Govindv7555/blob/main/your-gif-url.gif)
 </div>
