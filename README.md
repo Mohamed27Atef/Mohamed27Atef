@@ -1,68 +1,76 @@
-<h1 align="center">Hey there! 👋 I'm Mohamed Atef</h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200">
-</div>
+ ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
+<h1 align="center">Mohamed Atef Github Profile</h1>
+<h3 align="center">Expert Full Stack Developer</h3>
+<img align= "right" alt="CodingGuy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-<hr/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tolulope05&label=Profile%20views&color=0e75b6&style=flat" alt="Tolulope" /> </p>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; GIFs For Readme &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /></div>
+<p align="left"> <a href="https://twitter.com/FakunleTolu" target="blank"><img src="https://img.shields.io/twitter/follow/FakunleTolu?logo=twitter&style=for-the-badge" alt="FakunleTolu" /></a> </p>
+
+- 🔭 I’m working on **Projects with .Net and Angular**
+
+- 💬 You can ask me about **.Net and Angular**
+
+- 📫 How to reach me **mohamed27atef@gmail.com**
+
+- ⚡ Fun fact **I'm a graduate of intensive training at the Information Technology Institute(ITI) as a Full Stack Developer using .NET and Anglar for 3 months.**
+ 
+ ## 🔗 Links:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/tolutech/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/4clrdv)
+[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tolucodes)
+
+### 🛠 Tool and Framework
+
+Name | Badges
+--- | --- 
+**Design**  |  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+**Languages**  |  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+**Frameworks, Platforms and Libraries** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+**Databases**  | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+**CI/CD & Hosting**   | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+</p> 
+
+<hr>
+
+### 👔 Soft skills.
+
+✅ Cross-platform development skills
+
+✅ Creativity
+
+✅ Good communication skills
+
+✅ Problem-solving
+
+✅ Teamwork
+
+✅ Back-end computing
+
+✅ Professionalism 
+
+<hr>
+
+## ❤ Views and Followers.
+
+<a href="https://github.com/Tolulope05/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Mohamed27Atef">
+</a>
+<a href="https://github.com/Mohamed27Atef?tab=followers"><img src="https://img.shields.io/github/followers/Mohamed27Atef?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+ <br>
+ 
+ 
+ ## Stats.
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed27Atef&layout=compact&theme=dark&hide_border=false" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamed27Atef&show_icons=true&locale=en&theme=onedark" alt="Mohamed27Atef" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed27Atef&theme=dark" alt="Mohamed27Atef" /></p>
+<br/>
+ <b>Note:</b> The top languages shown here is just a measure of what I have posted here on GitHub and not my actual skill level, Thank you.
+
+
 
 <br/>
-<br/>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Graduate%20Developer;Backend%20%26%20Frontend%20Technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-  </a>
-</p>
-
-<img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coder GIF" width="380" height="280">
-
-## 🚀 About Me
-I'm a passionate graduate developer with a strong foundation in backend technologies like ASP.NET Web API, Entity Framework Core, ADO.NET, and Microsoft SQL Server. I excel in Object-Oriented Programming (OOP), Design Patterns, and working with data structures and algorithms.
-
-On the frontend side, I have experience with technologies like AngularJS, HTML5, CSS3, ECMAScript, and JavaScript, enabling me to create responsive and user-friendly interfaces.
-
-I'm eager to continue developing my skills as a junior-level .NET developer and leverage my knowledge of both backend and frontend technologies to contribute effectively to development teams and tackle exciting challenges.
-
-<div align="center">
-  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="50%">
-</div>
-
-### Backend Technologies
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/asp.png"/>
-  <img src="https://img.icons8.com/color/48/000000/entity-framework.png"/>
-  <img src="https://img.icons8.com/color/48/000000/sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
-</p>
-
-### Frontend Technologies
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-</p>
-
-### Contact Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed27atef/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mohamed27atef@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/201000538301" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-brightgreen?style=flat&logo=whatsapp&logoColor=white">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/your-username/your-repository/blob/main/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/-Resume-lightgrey?style=flat">
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%">
-</div>
