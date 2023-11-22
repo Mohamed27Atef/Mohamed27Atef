@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Mohamed Atef</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200">
 </div>
 
 <hr/>
@@ -15,14 +15,18 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Graduate%20Developer;Backend%20%26%20Frontend%20Technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+<img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h3>🚀 About Me</h3>
-<p>As a full-stack developer, I specialize in .NET and Angular, crafting robust web applications. My expertise spans both backend and frontend development, enabling me to design scalable solutions meeting modern business needs. I leverage .NET frameworks like ASP.NET MVC and Web API for a reliable server-side infrastructure. Proficient in Angular, I create intuitive UIs using its powerful features—component-based architecture, data binding, and routing. With a strong grasp of database management and languages like SQL, I seamlessly integrate databases into applications, delivering end-to-end solutions that are functional and visually appealing.</p>
+<p>I'm a passionate graduate developer with a strong foundation in backend technologies like ASP.NET Web API, Entity Framework Core, ADO.NET, and Microsoft SQL Server. I excel in Object-Oriented Programming (OOP), Design Patterns, and working with data structures and algorithms.</p>
+
+<p>On the frontend, I've got experience with AngularJS, HTML5, CSS3, ECMAScript, and JavaScript, allowing me to craft responsive and user-friendly interfaces.</p>
+
+<p>I'm enthusiastic about growing as a junior .NET developer, leveraging my backend and frontend skills to contribute effectively to development teams and take on exciting challenges.</p>
 
 <div align="center">
   <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="50%">
