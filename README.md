@@ -48,6 +48,22 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 </p>
 
+### Contact Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed27atef/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mohamed27atef@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/201000538301" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-brightgreen?style=flat&logo=whatsapp&logoColor=white">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/your-username/your-repository/blob/main/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-Resume-lightgrey?style=flat">
+  </a>
+</p>
+
 <div align="center">
   <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%">
 </div>
