@@ -27,9 +27,29 @@ Name | Badges
 --- | --- 
 **Design**  |  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 **Languages**  |  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-**Frameworks, Platforms and Libraries** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-**Databases**  | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-**CI/CD & Hosting**   | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+### 🛠 Tool and Framework
+
+**Backend Technologies**
+C# | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+LINQ | ![LINQ](https://img.shields.io/badge/LINQ-800080?style=for-the-badge&logo=linq&logoColor=white)
+ASP.NET MVC | ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+ASP.NET Web API | ![ASP.NET Web API](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+Entity Framework (EF) Core | ![EF Core](https://img.shields.io/badge/EF_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+ADO.NET | ![ADO.NET](https://img.shields.io/badge/ADO.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+Microsoft SQL Server | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+**Frontend Technologies**
+AngularJS | ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+HTML5 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+CSS3 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ECMAScript | ![ECMAScript](https://img.shields.io/badge/ECMAScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Other Skills**
+**OOP (Object-Oriented Programming)** | ![OOP](https://img.shields.io/badge/OOP-555555?style=for-the-badge)
+**Design Patterns** | ![Design Patterns](https://img.shields.io/badge/Design_Patterns-555555?style=for-the-badge)
+**Data Structures & Algorithms** | ![Data Structures & Algorithms](https://img.shields.io/badge/Data_Structures_Algorithms-555555?style=for-the-badge)
+**Problem Solving** | ![Problem Solving](https://img.shields.io/badge/Problem_Solving-555555?style=for-the-badge)
 </p> 
 
 <hr>
@@ -52,7 +72,7 @@ Name | Badges
 
 <hr>
 
-## ❤ Views and Followers.
+<!--## ❤ Views and Followers.
 
 <a href="https://github.com/Tolulope05/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Mohamed27Atef">
@@ -62,14 +82,13 @@ Name | Badges
 
  <br>
  
- 
  ## Stats.
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed27Atef&layout=compact&theme=dark&hide_border=false" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamed27Atef&show_icons=true&locale=en&theme=onedark" alt="Mohamed27Atef" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed27Atef&theme=dark" alt="Mohamed27Atef" /></p>
 <br/>
- <b>Note:</b> The top languages shown here is just a measure of what I have posted here on GitHub and not my actual skill level, Thank you.
+ <b>Note:</b> The top languages shown here is just a measure of what I have posted here on GitHub and not my actual skill level, Thank you.-->
 
 
 
