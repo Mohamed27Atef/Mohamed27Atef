@@ -16,14 +16,14 @@
 <br/>
 
 <p align="center">
-  <!-- Update the text in the typing animation -->
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer%3B%20Backend%20%26%20Frontend%20Technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <!-- Change the text in the typing animation -->
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
 <img align="right" src="https://media.giphy.com/media/your-desired-gif-url.gif" alt="Coder GIF" width="380" height="280">
 
 ### 🚀 About Me
-<!-- Update your personal information here -->
+<!-- Your personal information -->
 I'm a passionate graduate developer with a strong foundation in backend technologies like ASP.NET Web API, Entity Framework Core, ADO.NET, and Microsoft SQL Server. I excel in Object-Oriented Programming (OOP), Design Patterns, and working with data structures and algorithms.
 
 On the frontend side, I have experience with technologies like AngularJS, HTML5, CSS3, ECMAScript, and JavaScript, enabling me to create responsive and user-friendly interfaces.
