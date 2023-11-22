@@ -4,9 +4,6 @@
 <h3 align="center">Expert Full Stack Developer</h3>
 <img align= "right" alt="CodingGuy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tolulope05&label=Profile%20views&color=0e75b6&style=flat" alt="Tolulope" /> </p>
-
-<p align="left"> <a href="https://twitter.com/FakunleTolu" target="blank"><img src="https://img.shields.io/twitter/follow/FakunleTolu?logo=twitter&style=for-the-badge" alt="FakunleTolu" /></a> </p>
 
 - 🔭 I’m working on **Projects with .Net and Angular**
 
@@ -14,12 +11,15 @@
 
 - 📫 How to reach me **mohamed27atef@gmail.com**
 
-- ⚡ Fun fact **I'm a graduate of intensive training at the Information Technology Institute(ITI) as a Full Stack Developer using .NET and Anglar for 3 months.**
+- ⚡ **I'm a graduate of intensive training at ITI as a Full Stack Developer using .NET and Anglar for 3 months.**
  
  ## 🔗 Links:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/tolutech/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/4clrdv)
-[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tolucodes)
+## 🔗 Links:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed27atef/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201000538301)
+[![Email](https://img.shields.io/badge/email-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed27atef@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-1DA1F2?style=for-the-badge&logo=pdf&logoColor=white)](https://raw.githubusercontent.com/your-username/your-repository/main/Mohamed%20Atef%20Mohamed.pdf)
+
 
 ### 🛠 Tool and Framework
 
