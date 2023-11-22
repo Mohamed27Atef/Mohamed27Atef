@@ -12,7 +12,6 @@
 
 - ⚡ **I'm a graduate of intensive training at ITI as a Full Stack Developer using .NET and Anglar for 3 months.**
  
- ## 🔗 Links:
 ## 🔗 Links:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed27atef/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201000538301)
