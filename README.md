@@ -21,12 +21,12 @@
 
 <img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coder GIF" width="380" height="280">
 
-<h3>🚀 About Me</h3>
-<p>I'm a passionate graduate developer with a strong foundation in backend technologies like ASP.NET Web API, Entity Framework Core, ADO.NET, and Microsoft SQL Server. I excel in Object-Oriented Programming (OOP), Design Patterns, and working with data structures and algorithms.</p>
+## 🚀 About Me
+I'm a passionate graduate developer with a strong foundation in backend technologies like ASP.NET Web API, Entity Framework Core, ADO.NET, and Microsoft SQL Server. I excel in Object-Oriented Programming (OOP), Design Patterns, and working with data structures and algorithms.
 
-<p>On the frontend side, I have experience with technologies like AngularJS, HTML5, CSS3, ECMAScript, and JavaScript, enabling me to create responsive and user-friendly interfaces.</p>
+On the frontend side, I have experience with technologies like AngularJS, HTML5, CSS3, ECMAScript, and JavaScript, enabling me to create responsive and user-friendly interfaces.
 
-<p>I'm eager to continue developing my skills as a junior-level .NET developer and leverage my knowledge of both backend and frontend technologies to contribute effectively to development teams and tackle exciting challenges.</p>
+I'm eager to continue developing my skills as a junior-level .NET developer and leverage my knowledge of both backend and frontend technologies to contribute effectively to development teams and tackle exciting challenges.
 
 <div align="center">
   <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="50%">
