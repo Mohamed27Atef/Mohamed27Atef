@@ -1,6 +1,5 @@
 
- ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
-<h1 align="center">Mohamed Atef Github Profile</h1>
+## Hello, I'm Mohamed Atef! 👋
 <h3 align="center">Expert Full Stack Developer</h3>
 <img align= "right" alt="CodingGuy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
