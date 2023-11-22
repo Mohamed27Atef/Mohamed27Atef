@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mohamed27atef@gmail.com**
 
-- ⚡ **I'm a graduate of intensive training at ITI as a Full Stack Developer using .NET and Anglar for 3 months.**
+- ⚡ **I'm a graduate of intensive training at ITI as a Full Stack Developer using .NET and Anglar.**
  
 ## 🔗 Links:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed27atef/)
