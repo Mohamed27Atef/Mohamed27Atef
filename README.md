@@ -18,7 +18,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed27atef/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201000538301)
 [![Email](https://img.shields.io/badge/email-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed27atef@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-1DA1F2?style=for-the-badge&logo=pdf&logoColor=white)](https://raw.githubusercontent.com/your-username/your-repository/main/Mohamed%20Atef%20Mohamed.pdf)
+[![Resume](https://img.shields.io/badge/Resume-1DA1F2?style=for-the-badge&logo=pdf&logoColor=white)](https://raw.githubusercontent.com/Mohamed27Atef/Mohamed27Atef/main/Mohamed%20Atef%20Mohamed.pdf)
 
 
 ### 🛠 Tool and Framework
