@@ -24,25 +24,29 @@
 <h3>🚀 About Me</h3>
 <p>I'm a passionate graduate developer with a strong foundation in backend technologies like ASP.NET Web API, Entity Framework Core, ADO.NET, and Microsoft SQL Server. I excel in Object-Oriented Programming (OOP), Design Patterns, and working with data structures and algorithms.</p>
 
-<p>On the frontend, I've got experience with AngularJS, HTML5, CSS3, ECMAScript, and JavaScript, allowing me to craft responsive and user-friendly interfaces.</p>
+<p>On the frontend side, I have experience with technologies like AngularJS, HTML5, CSS3, ECMAScript, and JavaScript, enabling me to create responsive and user-friendly interfaces.</p>
 
-<p>I'm enthusiastic about growing as a junior .NET developer, leveraging my backend and frontend skills to contribute effectively to development teams and take on exciting challenges.</p>
+<p>I'm eager to continue developing my skills as a junior-level .NET developer and leverage my knowledge of both backend and frontend technologies to contribute effectively to development teams and tackle exciting challenges.</p>
 
 <div align="center">
   <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="50%">
 </div>
 
-### Languages and Tools 🛠️
+### Backend Technologies
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/asp.png"/>
+  <img src="https://img.icons8.com/color/48/000000/entity-framework.png"/>
+  <img src="https://img.icons8.com/color/48/000000/sql-server.png"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
+</p>
 
-<!-- Include your shields or badges for languages and tools here -->
-
-<div align="center">
-  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%">
-</div>
-
-### 🔗 Contact Me
-
-<!-- Your contact information and social links here -->
+### Frontend Technologies
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+</p>
 
 <div align="center">
   <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%">
